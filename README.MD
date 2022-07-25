@@ -6,6 +6,10 @@ A very  nice website created with HTML , CSS AND JAVASCRIPT
 
 ### Resource used in the projects will be available
 
+Author: EBISUCOM
+  Book Title: HTML & CSS Coding Practice Book
+  purpose: practice
+  date: 18/11/2014
 
 ### Contributing 💡
 
